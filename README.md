@@ -13,7 +13,7 @@ A Simple FTP Bruteforce Tool !!
   
 
 ## Installation
-```bash
+```
 sudo pip install argparse ftplib colorama termcolor
 git clone https://github.com/b14ckky/FTP_Brute
 cd FTP_Brute
